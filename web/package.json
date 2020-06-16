@@ -1,0 +1,14 @@
+{
+  "name": "vendx-website",
+  "version": "1.0.0",
+  "description": "A landing page for vendx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kamal Johnson, Balamurali M",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
