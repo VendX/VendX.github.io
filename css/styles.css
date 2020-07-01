@@ -1410,7 +1410,7 @@ input[type='checkbox'] {
 .form-2 {
 	padding-top: 7rem;
 	padding-bottom: 6.25rem;
-	background: url('../images/contact-background.jpg') center center no-repeat;
+	background: url('../images/contact-background.webp') center center no-repeat;
 	background-size: cover; 
 }
 
@@ -1856,7 +1856,7 @@ a:hover.back-to-top {
 
 	/* Header */
 	.header {
-		background: url('../images/header-background.jpg') center center no-repeat;
+		background: url('../images/header-background.webp') center center no-repeat;
 		background-size: cover; 
 	}
 
